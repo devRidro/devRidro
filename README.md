@@ -1,10 +1,8 @@
 <h1 align="center">Hi there, I'm Rodrigo 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7971E&width=435&lines=Fullstack+Developer+In+Progress;Web+Developer;Tech+Content+Creator;Learning+Every+Day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7971E&width=600&lines=Learning+Web+Development;Building+Projects;Future+Fullstack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
----
 
 ## 🚀 About Me
 
